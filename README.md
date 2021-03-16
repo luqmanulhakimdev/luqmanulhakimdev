@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luqmanul Hakim</h1>
-<h3 align="center">Back-end Developer and JS enthusiast located in Surabaya, Indonesia. Life to Code, Like to Code, Built everything with Love.A passionate frontend developer from India</h3>
+<h3 align="center">I am a Web-Developer and JS enthusiast located in Surabaya, Indonesia. I'm a strong team player who is able to quickly learn and apply new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luqmanulhakimdev&label=Profile%20views&color=0e75b6&style=flat" alt="luqmanulhakimdev" /> </p>
 
