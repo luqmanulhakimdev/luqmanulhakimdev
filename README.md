@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luqmanul Hakim</h1>
-<h3 align="center">I am a Web-Developer and JS enthusiast located in Surabaya, Indonesia. I'm a strong team player who is able to quickly learn and apply new technologies.</h3>
+<h3 align="center">I'm a Rookie Software Engineer based in Surabaya, Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luqmanulhakimdev&label=Profile%20views&color=0e75b6&style=flat" alt="luqmanulhakimdev" /> </p>
 
