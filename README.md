@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luqmanulhakimdev" alt="luqmanulhakimdev" /></a> </p>
 
-- 🔭 I’m currently working on **Twiscode Pte. Ltd.**
+- 🔭 I’m currently working on **PT Amartha Mikro Fintek.**
 
 - 🌱 I’m currently learning **Golang**
 
